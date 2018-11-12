@@ -72,5 +72,9 @@ After Eclipse opened up, you probably have some error \(at least I did\), so jus
 
 And you can now explore the Minecraft source code \(kinda, at least\) ! Now, you probably want to know how you can help documenting functions, classes, fields, etc... Well, here's the time for...
 
+## Contribute to this wiki
+
+
+
 
 

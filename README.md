@@ -12,5 +12,3 @@ As previously said, this wiki only covers the **source code** of Minecraft. For 
 If you do any new discovery, don't hesitate to create your own wiki, github, or contact me if you don't really have the time for any of it, I'll try to do that as soon as I can
 {% endhint %}
 
-
-
