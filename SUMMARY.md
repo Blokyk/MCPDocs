@@ -6,6 +6,7 @@
 ## net.minecraft.client
 
 * [Main Page - Package presentation](net.minecraft.client/net.minecraft.md)
+* [Minecraft \(class\)](net.minecraft.client/minecraft-class.md)
 
 ## Troubleshooting
 
